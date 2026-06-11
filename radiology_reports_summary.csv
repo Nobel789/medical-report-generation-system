@@ -1,0 +1,151 @@
+patient_id,age,gender,exam_date,indication,modality,lung_finding,heart_size,pleural_finding,bone_finding,additional_finding,impression_category,report_word_count,report_length
+MRN100000,69,Male,2025-08-25,Cough and fever,Chest X-ray PA and Lateral,Infiltrate present,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - significant,119,1220
+MRN100001,41,Male,2025-12-24,Post-operative evaluation,Chest X-ray Portable,Consolidation,Enlarged,No effusion,Degenerative changes,None,Abnormal - significant,108,1172
+MRN100002,75,Female,2025-09-12,Follow-up study,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,110,1166
+MRN100003,72,Female,2025-07-07,Shortness of breath,CT Chest without contrast,Nodule,Borderline enlarged,No effusion,No acute fracture,None,Abnormal - minor,118,1154
+MRN100004,77,Female,2025-09-23,Chest pain,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Surgical clips,Abnormal - minor,111,1161
+MRN100005,25,Male,2026-04-18,Trauma,Chest X-ray PA and Lateral,Clear,Borderline enlarged,No effusion,No acute fracture,Mild atelectasis,Abnormal - minor,109,1160
+MRN100006,21,Female,2025-11-13,Chest pain,Chest X-ray Portable,Clear,Normal,Moderate effusion,Rib fracture,Surgical clips,Abnormal - significant,130,1307
+MRN100007,79,Female,2025-10-22,Post-operative evaluation,Chest X-ray Portable,Infiltrate present,Normal,Large effusion,No acute fracture,Calcified granuloma,Critical,135,1392
+MRN100008,58,Male,2026-05-08,Post-operative evaluation,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,111,1178
+MRN100009,25,Male,2025-08-07,Cough and fever,Chest X-ray PA and Lateral,Mass,Borderline enlarged,Moderate effusion,Clavicle fracture,Surgical clips,Critical,150,1414
+MRN100010,51,Male,2026-04-05,Routine screening,CT Chest without contrast,Consolidation,Borderline enlarged,No effusion,No acute fracture,Hyperinflation,Abnormal - significant,112,1204
+MRN100011,82,Male,2026-02-11,Routine screening,Chest X-ray Portable,Nodule,Borderline enlarged,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,118,1173
+MRN100012,26,Male,2026-05-08,Chest pain,Chest X-ray Portable,Clear,Normal,Moderate effusion,No acute fracture,Calcified granuloma,Abnormal - significant,111,1194
+MRN100013,21,Female,2025-10-04,Post-operative evaluation,CT Chest without contrast,Consolidation,Normal,No effusion,No acute fracture,Surgical clips,Abnormal - significant,113,1206
+MRN100014,83,Female,2026-04-08,Trauma,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,110,1163
+MRN100015,79,Male,2025-08-13,Trauma,Chest X-ray PA and Lateral,Nodule,Enlarged,No effusion,No acute fracture,None,Abnormal - minor,116,1128
+MRN100016,79,Male,2025-10-10,Cough and fever,Chest X-ray Portable,Clear,Enlarged,No effusion,No acute fracture,None,Abnormal - minor,102,1114
+MRN100017,69,Male,2025-07-09,Shortness of breath,Chest X-ray Portable,Mass,Normal,No effusion,No acute fracture,None,Critical,112,1134
+MRN100018,73,Male,2025-11-17,Shortness of breath,Chest X-ray Portable,Infiltrate present,Normal,No effusion,Degenerative changes,Hyperinflation,Abnormal - significant,117,1224
+MRN100019,19,Male,2025-12-02,Chest pain,Chest X-ray Portable,Clear,Borderline enlarged,Small effusion,No acute fracture,Calcified granuloma,Abnormal - minor,109,1171
+MRN100020,87,Female,2025-09-25,Shortness of breath,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,112,1176
+MRN100021,53,Male,2025-06-11,Cough and fever,CT Chest without contrast,Clear,Normal,No effusion,No acute fracture,Mild atelectasis,Abnormal - minor,110,1162
+MRN100022,18,Male,2025-12-23,Routine screening,Chest X-ray Portable,Consolidation,Normal,No effusion,Degenerative changes,Surgical clips,Abnormal - significant,115,1207
+MRN100023,77,Male,2026-05-21,Shortness of breath,Chest X-ray Portable,Nodule,Enlarged,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,117,1165
+MRN100024,36,Female,2025-10-27,Cough and fever,Chest X-ray Portable,Consolidation,Normal,No effusion,No acute fracture,Surgical clips,Abnormal - significant,113,1191
+MRN100025,42,Male,2025-06-19,Chest pain,Chest X-ray Portable,Clear,Enlarged,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,105,1150
+MRN100026,65,Female,2026-01-08,Cough and fever,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,113,1177
+MRN100027,68,Female,2025-09-01,Cough and fever,CT Chest without contrast,Nodule,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,123,1187
+MRN100028,78,Female,2025-12-27,Follow-up study,CT Chest without contrast,Consolidation,Normal,Large effusion,No acute fracture,Calcified granuloma,Critical,135,1375
+MRN100029,23,Male,2025-10-02,Post-operative evaluation,Chest X-ray PA and Lateral,Clear,Enlarged,Large effusion,Clavicle fracture,Calcified granuloma,Critical,138,1387
+MRN100030,49,Male,2025-12-13,Cough and fever,Chest X-ray Portable,Infiltrate present,Enlarged,Small effusion,No acute fracture,Mild atelectasis,Abnormal - significant,116,1222
+MRN100031,49,Male,2025-06-15,Routine screening,Chest X-ray Portable,Clear,Normal,No effusion,Clavicle fracture,None,Abnormal - significant,111,1158
+MRN100032,60,Female,2025-11-28,Routine screening,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Surgical clips,Abnormal - minor,111,1168
+MRN100033,24,Male,2026-04-17,Post-operative evaluation,Chest X-ray PA and Lateral,Clear,Normal,No effusion,Clavicle fracture,Surgical clips,Abnormal - significant,120,1220
+MRN100034,83,Female,2025-10-20,Routine screening,Chest X-ray Portable,Clear,Normal,Large effusion,Clavicle fracture,Mild atelectasis,Critical,137,1375
+MRN100035,66,Female,2025-12-04,Trauma,CT Chest without contrast,Clear,Normal,No effusion,Rib fracture,Surgical clips,Abnormal - significant,118,1200
+MRN100036,22,Male,2025-11-08,Trauma,Chest X-ray PA and Lateral,Clear,Normal,Small effusion,No acute fracture,Calcified granuloma,Abnormal - minor,113,1174
+MRN100037,47,Male,2025-12-29,Routine screening,CT Chest without contrast,Clear,Normal,No effusion,Degenerative changes,None,Normal,104,1112
+MRN100038,29,Male,2026-01-14,Chest pain,Chest X-ray Portable,Clear,Normal,No effusion,Rib fracture,Calcified granuloma,Abnormal - significant,117,1194
+MRN100039,18,Female,2025-11-15,Routine screening,CT Chest without contrast,Clear,Borderline enlarged,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,107,1171
+MRN100040,74,Male,2025-10-15,Post-operative evaluation,CT Chest without contrast,Clear,Enlarged,Small effusion,No acute fracture,Mild atelectasis,Abnormal - minor,111,1195
+MRN100041,65,Male,2026-04-14,Follow-up study,Chest X-ray PA and Lateral,Infiltrate present,Normal,No effusion,Degenerative changes,Surgical clips,Abnormal - significant,121,1232
+MRN100042,51,Female,2025-10-12,Chest pain,Chest X-ray Portable,Mass,Normal,No effusion,No acute fracture,Mild atelectasis,Critical,114,1161
+MRN100043,49,Male,2025-06-17,Follow-up study,Chest X-ray Portable,Infiltrate present,Normal,Small effusion,Clavicle fracture,Surgical clips,Abnormal - significant,134,1330
+MRN100044,84,Male,2025-12-06,Chest pain,CT Chest without contrast,Clear,Normal,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,108,1155
+MRN100045,52,Male,2025-06-20,Chest pain,Chest X-ray PA and Lateral,Nodule,Normal,Small effusion,No acute fracture,Surgical clips,Abnormal - minor,126,1188
+MRN100046,75,Male,2026-01-29,Post-operative evaluation,CT Chest without contrast,Nodule,Borderline enlarged,Small effusion,No acute fracture,Mild atelectasis,Abnormal - minor,124,1209
+MRN100047,90,Female,2025-11-12,Cough and fever,Chest X-ray PA and Lateral,Consolidation,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - significant,117,1214
+MRN100048,29,Male,2025-11-21,Post-operative evaluation,CT Chest without contrast,Consolidation,Normal,Moderate effusion,No acute fracture,None,Abnormal - significant,124,1291
+MRN100049,30,Male,2026-05-04,Shortness of breath,Chest X-ray PA and Lateral,Mass,Normal,No effusion,Degenerative changes,Surgical clips,Critical,123,1199
+MRN100050,33,Male,2026-03-15,Cough and fever,Chest X-ray PA and Lateral,Infiltrate present,Normal,Moderate effusion,Rib fracture,Calcified granuloma,Abnormal - significant,151,1451
+MRN100051,70,Female,2025-11-18,Routine screening,Chest X-ray Portable,Infiltrate present,Normal,Moderate effusion,No acute fracture,Mild atelectasis,Abnormal - significant,128,1331
+MRN100052,26,Female,2025-09-12,Trauma,CT Chest without contrast,Clear,Normal,No effusion,Clavicle fracture,Mild atelectasis,Abnormal - significant,116,1199
+MRN100053,22,Male,2025-12-09,Trauma,CT Chest without contrast,Infiltrate present,Enlarged,Moderate effusion,No acute fracture,None,Abnormal - significant,122,1283
+MRN100054,62,Female,2025-08-04,Trauma,CT Chest without contrast,Infiltrate present,Normal,Small effusion,No acute fracture,Hyperinflation,Abnormal - significant,117,1224
+MRN100055,56,Female,2025-12-01,Post-operative evaluation,Chest X-ray Portable,Infiltrate present,Normal,No effusion,No acute fracture,None,Abnormal - significant,109,1175
+MRN100056,56,Male,2025-06-09,Trauma,Chest X-ray PA and Lateral,Clear,Normal,Moderate effusion,No acute fracture,Mild atelectasis,Abnormal - significant,115,1205
+MRN100057,61,Male,2025-12-14,Post-operative evaluation,Chest X-ray PA and Lateral,Clear,Normal,Moderate effusion,Degenerative changes,Surgical clips,Abnormal - significant,118,1234
+MRN100058,36,Female,2026-04-06,Shortness of breath,Chest X-ray PA and Lateral,Consolidation,Normal,No effusion,No acute fracture,None,Abnormal - significant,113,1177
+MRN100059,29,Female,2025-10-11,Trauma,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Mild atelectasis,Abnormal - minor,110,1159
+MRN100060,45,Female,2025-05-31,Shortness of breath,CT Chest without contrast,Consolidation,Normal,No effusion,Rib fracture,Surgical clips,Abnormal - significant,134,1326
+MRN100061,46,Male,2026-04-07,Cough and fever,Chest X-ray PA and Lateral,Mass,Normal,No effusion,Degenerative changes,Mild atelectasis,Critical,122,1190
+MRN100062,73,Female,2025-09-23,Cough and fever,Chest X-ray PA and Lateral,Clear,Normal,Small effusion,No acute fracture,None,Abnormal - minor,111,1146
+MRN100063,28,Male,2025-08-14,Routine screening,Chest X-ray PA and Lateral,Mass,Borderline enlarged,Moderate effusion,No acute fracture,Hyperinflation,Critical,130,1298
+MRN100064,18,Male,2025-07-16,Trauma,Chest X-ray PA and Lateral,Infiltrate present,Borderline enlarged,Moderate effusion,No acute fracture,Calcified granuloma,Abnormal - significant,129,1331
+MRN100065,54,Female,2026-03-01,Shortness of breath,Chest X-ray PA and Lateral,Infiltrate present,Normal,Large effusion,No acute fracture,None,Critical,135,1351
+MRN100066,49,Female,2025-06-09,Routine screening,CT Chest without contrast,Consolidation,Normal,Small effusion,No acute fracture,Surgical clips,Abnormal - significant,117,1219
+MRN100067,82,Female,2025-09-29,Post-operative evaluation,Chest X-ray Portable,Nodule,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,119,1181
+MRN100068,31,Female,2026-03-09,Cough and fever,CT Chest without contrast,Clear,Normal,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,109,1164
+MRN100069,68,Male,2025-07-19,Shortness of breath,Chest X-ray Portable,Infiltrate present,Enlarged,No effusion,No acute fracture,None,Abnormal - significant,108,1166
+MRN100070,22,Male,2026-01-05,Shortness of breath,Chest X-ray Portable,Consolidation,Normal,No effusion,No acute fracture,Mild atelectasis,Abnormal - significant,112,1187
+MRN100071,60,Female,2026-02-01,Shortness of breath,CT Chest without contrast,Clear,Normal,No effusion,No acute fracture,Surgical clips,Abnormal - minor,111,1174
+MRN100072,73,Male,2025-11-09,Cough and fever,CT Chest without contrast,Consolidation,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - significant,115,1202
+MRN100073,59,Male,2026-05-01,Post-operative evaluation,Chest X-ray Portable,Clear,Normal,No effusion,No acute fracture,Mild atelectasis,Abnormal - minor,107,1162
+MRN100074,62,Male,2026-03-11,Chest pain,Chest X-ray PA and Lateral,Infiltrate present,Borderline enlarged,No effusion,No acute fracture,Calcified granuloma,Abnormal - significant,116,1215
+MRN100075,43,Female,2025-09-08,Shortness of breath,CT Chest without contrast,Clear,Normal,No effusion,No acute fracture,Mild atelectasis,Abnormal - minor,110,1170
+MRN100076,45,Male,2026-03-06,Chest pain,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,111,1163
+MRN100077,35,Female,2025-08-02,Cough and fever,CT Chest without contrast,Clear,Normal,No effusion,No acute fracture,None,Normal,102,1097
+MRN100078,34,Male,2026-02-26,Chest pain,Chest X-ray Portable,Clear,Enlarged,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,104,1145
+MRN100079,35,Male,2025-10-07,Routine screening,Chest X-ray Portable,Infiltrate present,Borderline enlarged,No effusion,No acute fracture,None,Abnormal - significant,109,1174
+MRN100080,23,Female,2025-08-14,Chest pain,CT Chest without contrast,Clear,Enlarged,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,108,1170
+MRN100081,87,Female,2026-01-31,Follow-up study,Chest X-ray Portable,Clear,Normal,No effusion,Clavicle fracture,Hyperinflation,Abnormal - significant,114,1196
+MRN100082,48,Female,2025-10-06,Follow-up study,CT Chest without contrast,Nodule,Normal,Moderate effusion,No acute fracture,None,Abnormal - significant,132,1266
+MRN100083,68,Female,2025-11-10,Routine screening,CT Chest without contrast,Infiltrate present,Normal,Small effusion,No acute fracture,Surgical clips,Abnormal - significant,118,1231
+MRN100084,36,Female,2025-10-10,Follow-up study,Chest X-ray PA and Lateral,Infiltrate present,Borderline enlarged,Small effusion,No acute fracture,Hyperinflation,Abnormal - significant,118,1235
+MRN100085,20,Male,2025-11-26,Chest pain,Chest X-ray PA and Lateral,Clear,Enlarged,No effusion,Rib fracture,None,Abnormal - significant,114,1160
+MRN100086,80,Male,2025-06-28,Shortness of breath,Chest X-ray PA and Lateral,Infiltrate present,Normal,No effusion,No acute fracture,None,Abnormal - significant,115,1184
+MRN100087,86,Female,2025-09-29,Chest pain,Chest X-ray Portable,Mass,Enlarged,No effusion,No acute fracture,None,Critical,108,1123
+MRN100088,57,Female,2026-03-24,Post-operative evaluation,CT Chest without contrast,Nodule,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,121,1191
+MRN100089,43,Female,2026-01-11,Shortness of breath,Chest X-ray PA and Lateral,Infiltrate present,Borderline enlarged,No effusion,Rib fracture,Hyperinflation,Abnormal - significant,136,1343
+MRN100090,55,Male,2026-04-30,Routine screening,CT Chest without contrast,Infiltrate present,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - significant,116,1220
+MRN100091,68,Male,2025-11-06,Trauma,CT Chest without contrast,Infiltrate present,Normal,No effusion,Rib fracture,Calcified granuloma,Abnormal - significant,133,1317
+MRN100092,50,Female,2025-10-04,Cough and fever,Chest X-ray PA and Lateral,Clear,Normal,No effusion,Rib fracture,Surgical clips,Abnormal - significant,122,1211
+MRN100093,83,Female,2026-05-18,Cough and fever,Chest X-ray Portable,Clear,Borderline enlarged,No effusion,Clavicle fracture,Surgical clips,Abnormal - significant,115,1200
+MRN100094,73,Male,2025-12-17,Post-operative evaluation,Chest X-ray PA and Lateral,Clear,Borderline enlarged,Small effusion,No acute fracture,Hyperinflation,Abnormal - minor,112,1193
+MRN100095,53,Female,2025-08-14,Cough and fever,CT Chest without contrast,Clear,Normal,Moderate effusion,No acute fracture,Mild atelectasis,Abnormal - significant,115,1216
+MRN100096,63,Male,2025-10-17,Post-operative evaluation,Chest X-ray Portable,Clear,Normal,Small effusion,No acute fracture,Surgical clips,Abnormal - minor,111,1183
+MRN100097,85,Male,2025-08-03,Routine screening,Chest X-ray Portable,Consolidation,Normal,No effusion,No acute fracture,None,Abnormal - significant,108,1154
+MRN100098,28,Male,2025-09-08,Trauma,Chest X-ray PA and Lateral,Mass,Borderline enlarged,No effusion,Degenerative changes,Hyperinflation,Critical,118,1185
+MRN100099,57,Male,2025-12-25,Routine screening,Chest X-ray PA and Lateral,Consolidation,Normal,Small effusion,No acute fracture,Hyperinflation,Abnormal - significant,117,1218
+MRN100100,80,Female,2026-04-28,Chest pain,CT Chest without contrast,Mass,Normal,No effusion,Degenerative changes,Hyperinflation,Critical,119,1191
+MRN100101,76,Female,2025-09-14,Cough and fever,Chest X-ray Portable,Clear,Normal,No effusion,Degenerative changes,None,Normal,104,1110
+MRN100102,46,Male,2025-12-24,Chest pain,Chest X-ray Portable,Consolidation,Normal,Large effusion,No acute fracture,Surgical clips,Critical,133,1352
+MRN100103,80,Male,2025-05-28,Shortness of breath,CT Chest without contrast,Infiltrate present,Normal,Small effusion,No acute fracture,Hyperinflation,Abnormal - significant,118,1228
+MRN100104,79,Female,2025-12-16,Post-operative evaluation,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,111,1182
+MRN100105,64,Female,2025-11-10,Trauma,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,111,1168
+MRN100106,72,Male,2026-01-12,Chest pain,Chest X-ray Portable,Nodule,Normal,Small effusion,Degenerative changes,Mild atelectasis,Abnormal - minor,126,1198
+MRN100107,24,Male,2026-05-15,Shortness of breath,Chest X-ray PA and Lateral,Clear,Normal,Small effusion,No acute fracture,None,Abnormal - minor,112,1153
+MRN100108,84,Male,2026-02-15,Follow-up study,CT Chest without contrast,Consolidation,Borderline enlarged,Large effusion,No acute fracture,Hyperinflation,Critical,133,1378
+MRN100109,33,Female,2025-12-09,Trauma,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,None,Normal,103,1096
+MRN100110,40,Male,2025-12-27,Post-operative evaluation,CT Chest without contrast,Infiltrate present,Normal,Moderate effusion,Rib fracture,Surgical clips,Abnormal - significant,149,1460
+MRN100111,28,Female,2025-11-09,Routine screening,CT Chest without contrast,Clear,Normal,No effusion,No acute fracture,Mild atelectasis,Abnormal - minor,110,1174
+MRN100112,70,Female,2025-06-02,Follow-up study,Chest X-ray Portable,Consolidation,Normal,Moderate effusion,No acute fracture,None,Abnormal - significant,121,1275
+MRN100113,31,Male,2026-04-13,Chest pain,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Mild atelectasis,Abnormal - minor,111,1159
+MRN100114,75,Male,2026-02-03,Chest pain,CT Chest without contrast,Consolidation,Borderline enlarged,No effusion,Rib fracture,None,Abnormal - significant,128,1276
+MRN100115,55,Female,2026-05-06,Post-operative evaluation,Chest X-ray PA and Lateral,Infiltrate present,Borderline enlarged,No effusion,No acute fracture,Hyperinflation,Abnormal - significant,115,1228
+MRN100116,74,Male,2026-01-09,Cough and fever,Chest X-ray Portable,Infiltrate present,Borderline enlarged,No effusion,Degenerative changes,Mild atelectasis,Abnormal - significant,116,1221
+MRN100117,79,Female,2026-04-07,Chest pain,Chest X-ray Portable,Consolidation,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - significant,111,1186
+MRN100118,28,Female,2026-05-12,Follow-up study,Chest X-ray PA and Lateral,Consolidation,Normal,Moderate effusion,No acute fracture,Calcified granuloma,Abnormal - significant,129,1323
+MRN100119,73,Male,2025-09-15,Follow-up study,CT Chest without contrast,Clear,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,110,1171
+MRN100120,90,Female,2026-03-11,Shortness of breath,Chest X-ray PA and Lateral,Clear,Borderline enlarged,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,110,1175
+MRN100121,20,Female,2025-10-06,Follow-up study,CT Chest without contrast,Clear,Normal,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,109,1170
+MRN100122,66,Male,2026-05-06,Chest pain,Chest X-ray PA and Lateral,Clear,Normal,No effusion,Clavicle fracture,Calcified granuloma,Abnormal - significant,119,1204
+MRN100123,87,Female,2026-04-28,Chest pain,Chest X-ray PA and Lateral,Consolidation,Borderline enlarged,No effusion,No acute fracture,Mild atelectasis,Abnormal - significant,114,1199
+MRN100124,33,Male,2025-08-14,Post-operative evaluation,Chest X-ray Portable,Mass,Normal,Small effusion,No acute fracture,Mild atelectasis,Critical,118,1194
+MRN100125,76,Male,2026-03-02,Routine screening,Chest X-ray Portable,Clear,Normal,No effusion,No acute fracture,Hyperinflation,Abnormal - minor,106,1152
+MRN100126,77,Male,2026-02-14,Cough and fever,Chest X-ray PA and Lateral,Infiltrate present,Normal,No effusion,No acute fracture,None,Abnormal - significant,114,1173
+MRN100127,21,Male,2025-10-25,Shortness of breath,Chest X-ray PA and Lateral,Infiltrate present,Normal,No effusion,Clavicle fracture,Hyperinflation,Abnormal - significant,136,1337
+MRN100128,30,Male,2025-08-22,Cough and fever,CT Chest without contrast,Mass,Normal,Small effusion,No acute fracture,Calcified granuloma,Critical,120,1192
+MRN100129,74,Female,2025-09-29,Routine screening,Chest X-ray PA and Lateral,Consolidation,Normal,No effusion,Rib fracture,None,Abnormal - significant,130,1278
+MRN100130,20,Male,2026-01-01,Trauma,Chest X-ray Portable,Clear,Normal,No effusion,No acute fracture,None,Normal,98,1074
+MRN100131,32,Male,2025-06-13,Follow-up study,CT Chest without contrast,Mass,Borderline enlarged,No effusion,No acute fracture,Hyperinflation,Critical,115,1180
+MRN100132,79,Male,2025-10-09,Shortness of breath,CT Chest without contrast,Mass,Normal,Moderate effusion,No acute fracture,Calcified granuloma,Critical,131,1300
+MRN100133,74,Female,2025-09-24,Chest pain,CT Chest without contrast,Nodule,Borderline enlarged,No effusion,No acute fracture,None,Abnormal - minor,117,1145
+MRN100134,37,Female,2025-09-24,Post-operative evaluation,CT Chest without contrast,Clear,Borderline enlarged,Small effusion,No acute fracture,Hyperinflation,Abnormal - minor,111,1202
+MRN100135,30,Female,2026-02-23,Shortness of breath,Chest X-ray Portable,Nodule,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,120,1174
+MRN100136,26,Male,2025-10-09,Follow-up study,Chest X-ray Portable,Nodule,Borderline enlarged,No effusion,No acute fracture,Surgical clips,Abnormal - minor,118,1167
+MRN100137,55,Female,2025-09-14,Post-operative evaluation,Chest X-ray Portable,Infiltrate present,Enlarged,No effusion,Clavicle fracture,Calcified granuloma,Abnormal - significant,129,1334
+MRN100138,57,Male,2025-10-11,Trauma,Chest X-ray PA and Lateral,Mass,Normal,Small effusion,No acute fracture,Calcified granuloma,Critical,120,1185
+MRN100139,50,Female,2025-10-19,Cough and fever,Chest X-ray PA and Lateral,Clear,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,113,1177
+MRN100140,59,Female,2025-11-13,Cough and fever,Chest X-ray Portable,Clear,Enlarged,Large effusion,No acute fracture,Mild atelectasis,Critical,118,1256
+MRN100141,27,Female,2025-05-25,Post-operative evaluation,Chest X-ray Portable,Mass,Normal,No effusion,Rib fracture,Surgical clips,Critical,134,1294
+MRN100142,56,Female,2025-10-11,Post-operative evaluation,Chest X-ray Portable,Clear,Normal,No effusion,No acute fracture,Calcified granuloma,Abnormal - minor,108,1175
+MRN100143,52,Female,2025-07-01,Cough and fever,Chest X-ray Portable,Clear,Normal,Moderate effusion,No acute fracture,Calcified granuloma,Abnormal - significant,112,1203
+MRN100144,39,Female,2025-06-05,Follow-up study,Chest X-ray Portable,Mass,Normal,Small effusion,Rib fracture,None,Critical,132,1259
+MRN100145,39,Female,2026-01-23,Cough and fever,Chest X-ray Portable,Nodule,Enlarged,Large effusion,Rib fracture,Hyperinflation,Critical,158,1456
+MRN100146,69,Male,2026-05-16,Post-operative evaluation,CT Chest without contrast,Nodule,Normal,Small effusion,No acute fracture,Mild atelectasis,Abnormal - minor,124,1199
+MRN100147,63,Female,2025-08-11,Follow-up study,Chest X-ray PA and Lateral,Clear,Enlarged,No effusion,Clavicle fracture,Hyperinflation,Abnormal - significant,117,1213
+MRN100148,49,Female,2025-11-29,Trauma,Chest X-ray Portable,Clear,Enlarged,Large effusion,No acute fracture,Calcified granuloma,Critical,115,1243
+MRN100149,38,Male,2025-05-31,Cough and fever,Chest X-ray Portable,Consolidation,Normal,No effusion,No acute fracture,Mild atelectasis,Abnormal - significant,113,1190
